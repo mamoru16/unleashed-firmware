@@ -1,5 +1,7 @@
 ### New changes
-* PR: New Frequency analyzer, history of 4 elements, ability to select frequency from history and hold OK to go into Read (by @derskythe | PR #121)
+* Plugins: Added Temperature Sensor Plugin - HTU21D / SI7021 [(By Mywk)](https://github.com/Mywk/FlipperTemperatureSensor) - [How to Connect](https://github.com/DarkFlippers/unleashed-firmware/blob/dev/applications/plugins/temperature_sensor/Readme.md)
+
+**Note: Version naming changed to be more clear what version is newer, now we using -> unlshd-123 where 123 is build number**
 
 #### [🎲 Download extra apps pack](https://download-directory.github.io/?url=https://github.com/UberGuidoZ/Flipper/tree/main/Applications/Unleashed)
 
