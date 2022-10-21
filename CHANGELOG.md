@@ -1,5 +1,5 @@
 ### New changes
-* Plugins: Added Temperature Sensor Plugin - HTU21D / SI7021 [(By Mywk)](https://github.com/Mywk/FlipperTemperatureSensor) - [How to Connect](https://github.com/DarkFlippers/unleashed-firmware/blob/dev/applications/plugins/temperature_sensor/Readme.md)
+* Plugins: Update TOTP [(by akopachov)](https://github.com/akopachov/flipper-zero_authenticator)
 
 **Note: Version naming changed to be more clear what version is newer, now we using -> unlshd-123 where 123 is build number**
 
